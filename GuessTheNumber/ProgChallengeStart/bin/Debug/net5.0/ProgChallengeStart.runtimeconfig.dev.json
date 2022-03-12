@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pozenato\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pozenato\\.nuget\\packages"
+    ]
+  }
+}

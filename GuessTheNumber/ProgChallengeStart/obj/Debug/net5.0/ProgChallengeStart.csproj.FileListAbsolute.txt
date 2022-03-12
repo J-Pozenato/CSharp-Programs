@@ -1,0 +1,16 @@
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.AssemblyReference.cache
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\refint\ProgChallengeStart.dll
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache
+F:\Csharp\LearningC#\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll

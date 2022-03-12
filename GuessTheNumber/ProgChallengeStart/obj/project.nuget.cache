@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/N6j2LCyj6A+ZAp6KlTwTCXsXfRej3o6OXS0kB0CGO6+Ie/+41E3SLZnUXleKb6hiH4lgXZt7BClxfAAkOAeA==",
+  "success": true,
+  "projectFilePath": "F:\\Csharp\\LearningC#\\Start\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pozenato\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
