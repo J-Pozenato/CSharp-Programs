@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\Demos\bin\Debug\net6.0\Demos.exe
+F:\Csharp\dotNetGFT\Demos\bin\Debug\net6.0\Demos.deps.json
+F:\Csharp\dotNetGFT\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+F:\Csharp\dotNetGFT\Demos\bin\Debug\net6.0\Demos.dll
+F:\Csharp\dotNetGFT\Demos\bin\Debug\net6.0\Demos.pdb
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.dll
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\refint\Demos.dll
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.pdb
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\Demos\obj\Debug\net6.0\ref\Demos.dll
