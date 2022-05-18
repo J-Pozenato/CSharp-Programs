@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\RPGObjetos\bin\Debug\net6.0\RPGObjetos.exe
+F:\Csharp\dotNetGFT\RPGObjetos\bin\Debug\net6.0\RPGObjetos.deps.json
+F:\Csharp\dotNetGFT\RPGObjetos\bin\Debug\net6.0\RPGObjetos.runtimeconfig.json
+F:\Csharp\dotNetGFT\RPGObjetos\bin\Debug\net6.0\RPGObjetos.dll
+F:\Csharp\dotNetGFT\RPGObjetos\bin\Debug\net6.0\RPGObjetos.pdb
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.dll
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\refint\RPGObjetos.dll
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.pdb
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\RPGObjetos.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\RPGObjetos\obj\Debug\net6.0\ref\RPGObjetos.dll
