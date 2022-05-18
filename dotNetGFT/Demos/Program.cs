@@ -10,6 +10,7 @@ public class Program
         Demo5();
         Demo6();
         Demo7();
+        Demo8();
 
     }
 
@@ -138,6 +139,39 @@ public class Program
         Console.WriteLine($"Valor de a: {a}");
 
 
+    }
+
+    static void Demo8()
+    {
+        string[] nomes = new string[]{"Pedro", "João", "Choco", "Brenda"};
+
+        Console.WriteLine($@"Lista de Nomes:
+        {string.Join(",\n", nomes)}");
+
+        Console.Write("Digite o nome para ser trocado: ");
+        string nome = Console.ReadLine();
+
+        Console.Write("Qual vai ser o novo nome? ");
+        string nomeNovo = Console.ReadLine();
+
+        AlterarNome(nomes, nome, nomeNovo);
+
+        Console.WriteLine($@"Lista Alterada de Nomes:
+        {string.Join(",\n", nomes)}");
+    }
+
+    static void AlterarNome(string[] nomes, string nome, string nomeNovo)
+    {
+        for (int i = 0; i < nomes.Length; i++)
+        {
+            if (nomes[i] == nome)
+            {
+                nomes[i] = nomeNovo;
+                return;
+            }
+        }
+        Console.WriteLine($"{nome} não encontrado na lista");
+        
     }
 
     static void Adicionar20(ref int a)
