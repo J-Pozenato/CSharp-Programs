@@ -1,17 +1,19 @@
-﻿
+﻿using System.Text.Json;
+
 public class Program
 {
     public static void Main()
     {
-        Demo1();
-        Demo2();
-        Demo3();
-        Demo4();
-        Demo5();
-        Demo6();
-        Demo7();
-        Demo8();
-
+        // Demo1();
+        // Demo2();
+        // Demo3();
+        // Demo4();
+        // Demo5();
+        // Demo6();
+        // Demo7();
+        // Demo8();
+        // Demo9();
+        Demo10();
     }
 
     static void Demo1()
@@ -160,6 +162,39 @@ public class Program
         {string.Join(",\n", nomes)}");
     }
 
+    static void Demo9()
+    {
+        Pessoa2 p1 = new Pessoa2();
+
+        p1.Nome = "João";
+        p1.Idade = 26;
+        p1.Documento = "jasbku223";
+        p1.EnderecoPessoa = new Endereco()
+        {
+            Logradouro = "Rua massa",
+            Numero = 300,
+            CEP = "000230",
+            Cidade = "Grande Cidade"
+        };
+
+        Console.WriteLine("Nice ref struct");
+    }
+
+    static void Demo10()
+    {
+        Numero a = new Numero(2);
+        Numero b = new Numero(2);
+
+        if(a.N == b.N)
+        {
+            Console.WriteLine("a e b são iguais");
+        }
+        else
+        {
+            Console.WriteLine("a e b não são iguais");
+        }
+
+    }
     static void AlterarNome(string[] nomes, string nome, string nomeNovo)
     {
         for (int i = 0; i < nomes.Length; i++)
