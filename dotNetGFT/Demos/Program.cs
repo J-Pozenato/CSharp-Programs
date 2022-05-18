@@ -9,6 +9,7 @@ public class Program
         Demo4();
         Demo5();
         Demo6();
+        Demo7();
 
     }
 
@@ -125,6 +126,24 @@ public class Program
         {
             Console.WriteLine($"Não encontramos a pessoa {procurado.Nome}");
         }
+    }
+
+    static void Demo7()
+    {
+        int a = 2;
+
+        Console.WriteLine($"Valor de a: {a}");
+
+        Adicionar20(ref a);
+        Console.WriteLine($"Valor de a: {a}");
+
+
+    }
+
+    static void Adicionar20(ref int a)
+    {
+        a += 20;
+
     }
 
     static bool EncontrarPessoa(List<Pessoa> pessoas, Pessoa encontrar)
