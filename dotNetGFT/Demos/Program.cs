@@ -8,6 +8,8 @@ public class Program
         Demo3();
         Demo4();
         Demo5();
+        Demo6();
+
     }
 
     static void Demo1()
@@ -100,6 +102,45 @@ public class Program
         }
     }
     
+    static void Demo6()
+    {
+        List<Pessoa> pessoas = new List<Pessoa>()
+        {
+            new Pessoa{Nome = "Pedro"},
+            new Pessoa{Nome = "João"},
+            new Pessoa{Nome = "Choco"},
+            new Pessoa{Nome = "Brenda"},
+            new Pessoa{Nome = "Pessoa"}
+        };
+
+        Pessoa procurado = new Pessoa();
+        Console.Write("Digite o nome da pessoa procurada: ");
+        procurado.Nome = Console.ReadLine();
+
+        if (EncontrarPessoa(pessoas, procurado))
+        {
+            Console.WriteLine($"A pessoa {procurado.Nome} foi encontrada na nossa lista");
+        }
+        else
+        {
+            Console.WriteLine($"Não encontramos a pessoa {procurado.Nome}");
+        }
+    }
+
+    static bool EncontrarPessoa(List<Pessoa> pessoas, Pessoa encontrar)
+    {
+        string nome = encontrar.Nome.ToUpper();
+
+        foreach (var pessoa in pessoas)
+        {
+            if (pessoa.Nome.ToUpper() == nome)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
     static int EncontrarNumero(int[] encontrar, int numero)
     {
         for (int i = 0; i < encontrar.Length; i++)
