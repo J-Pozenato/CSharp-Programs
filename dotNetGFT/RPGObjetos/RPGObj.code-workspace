@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "RPGObjetos",
+			"path": "."
+		},
+		{
+			"name": "Demos",
+			"path": "..\\Demos"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
