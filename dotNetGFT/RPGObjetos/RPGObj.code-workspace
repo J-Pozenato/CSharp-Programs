@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "Colecoes",
+			"path": "..\\Colecoes"
+		},
+		{
 			"name": "RPGObjetos",
 			"path": "."
 		},

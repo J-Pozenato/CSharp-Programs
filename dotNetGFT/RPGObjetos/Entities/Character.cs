@@ -7,7 +7,7 @@ namespace RPGObjetos.Entities
         {
             this.Name = Name;
         }
-        public string Name {get; set;}
+        public string Name {get; set;} = "Unknow";
         public int Level {get; set;} = 1;
         public string Class {get; set;} = "Villager";
         public string AttackText {get; set;} = "attacked with the";
