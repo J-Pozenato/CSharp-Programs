@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj": {}
+    "F:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj": {}
   },
   "projects": {
-    "f:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj": {
+    "F:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj",
+        "projectUniqueName": "F:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj",
         "projectName": "Colecoes",
-        "projectPath": "f:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj",
+        "projectPath": "F:\\Csharp\\dotNetGFT\\Colecoes\\Colecoes.csproj",
         "packagesPath": "C:\\Users\\Pozenato\\.nuget\\packages\\",
-        "outputPath": "f:\\Csharp\\dotNetGFT\\Colecoes\\obj\\",
+        "outputPath": "F:\\Csharp\\dotNetGFT\\Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pozenato\\AppData\\Roaming\\NuGet\\NuGet.Config",
