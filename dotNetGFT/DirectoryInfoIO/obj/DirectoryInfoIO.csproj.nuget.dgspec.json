@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj": {}
+    "F:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj": {}
   },
   "projects": {
-    "f:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj": {
+    "F:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj",
+        "projectUniqueName": "F:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj",
         "projectName": "DirectoryInfoIO",
-        "projectPath": "f:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj",
+        "projectPath": "F:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\DirectoryInfoIO.csproj",
         "packagesPath": "C:\\Users\\Pozenato\\.nuget\\packages\\",
-        "outputPath": "f:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\obj\\",
+        "outputPath": "F:\\Csharp\\dotNetGFT\\DirectoryInfoIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pozenato\\AppData\\Roaming\\NuGet\\NuGet.Config",

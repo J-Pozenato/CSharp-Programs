@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\DirectoryInfoIO\bin\Debug\net6.0\DirectoryInfoIO.exe
+F:\Csharp\dotNetGFT\DirectoryInfoIO\bin\Debug\net6.0\DirectoryInfoIO.deps.json
+F:\Csharp\dotNetGFT\DirectoryInfoIO\bin\Debug\net6.0\DirectoryInfoIO.runtimeconfig.json
+F:\Csharp\dotNetGFT\DirectoryInfoIO\bin\Debug\net6.0\DirectoryInfoIO.dll
+F:\Csharp\dotNetGFT\DirectoryInfoIO\bin\Debug\net6.0\DirectoryInfoIO.pdb
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.dll
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\refint\DirectoryInfoIO.dll
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.pdb
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\DirectoryInfoIO.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\DirectoryInfoIO\obj\Debug\net6.0\ref\DirectoryInfoIO.dll
