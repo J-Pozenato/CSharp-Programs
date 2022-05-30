@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\DirectoryIO\bin\Debug\net6.0\DirectoryIO.exe
+F:\Csharp\dotNetGFT\DirectoryIO\bin\Debug\net6.0\DirectoryIO.deps.json
+F:\Csharp\dotNetGFT\DirectoryIO\bin\Debug\net6.0\DirectoryIO.runtimeconfig.json
+F:\Csharp\dotNetGFT\DirectoryIO\bin\Debug\net6.0\DirectoryIO.dll
+F:\Csharp\dotNetGFT\DirectoryIO\bin\Debug\net6.0\DirectoryIO.pdb
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.dll
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\refint\DirectoryIO.dll
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.pdb
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\DirectoryIO.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\DirectoryIO\obj\Debug\net6.0\ref\DirectoryIO.dll
