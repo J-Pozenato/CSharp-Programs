@@ -6,7 +6,7 @@ namespace Colecoes
     {
         private static void Main(string[] args)
         {
-            ArraysDemo();
+            // ArraysDemo();
             // ListsDemo();
             // QueueDemo();
             // StackDemo();
