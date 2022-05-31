@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\StringReader\bin\Debug\net6.0\StringReader.exe
+F:\Csharp\dotNetGFT\StringReader\bin\Debug\net6.0\StringReader.deps.json
+F:\Csharp\dotNetGFT\StringReader\bin\Debug\net6.0\StringReader.runtimeconfig.json
+F:\Csharp\dotNetGFT\StringReader\bin\Debug\net6.0\StringReader.dll
+F:\Csharp\dotNetGFT\StringReader\bin\Debug\net6.0\StringReader.pdb
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.dll
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\refint\StringReader.dll
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.pdb
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\StringReader.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\StringReader\obj\Debug\net6.0\ref\StringReader.dll
