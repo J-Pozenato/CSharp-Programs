@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj": {}
+    "F:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj": {}
   },
   "projects": {
-    "f:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj": {
+    "F:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj",
+        "projectUniqueName": "F:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj",
         "projectName": "FileSystemWatcher",
-        "projectPath": "f:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj",
+        "projectPath": "F:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj",
         "packagesPath": "C:\\Users\\Pozenato\\.nuget\\packages\\",
-        "outputPath": "f:\\Csharp\\dotNetGFT\\FileSystemWatcher\\obj\\",
+        "outputPath": "F:\\Csharp\\dotNetGFT\\FileSystemWatcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pozenato\\AppData\\Roaming\\NuGet\\NuGet.Config",

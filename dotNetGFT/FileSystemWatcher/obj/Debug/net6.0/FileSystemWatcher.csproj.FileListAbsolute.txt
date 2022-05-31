@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+F:\Csharp\dotNetGFT\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+F:\Csharp\dotNetGFT\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+F:\Csharp\dotNetGFT\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+F:\Csharp\dotNetGFT\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\refint\FileSystemWatcher.dll
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll

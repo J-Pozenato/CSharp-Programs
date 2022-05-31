@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+EFH5ttvZ3COeZbiGGzIM1uSqUSoYqO0PrORjRHM3wmmnLMGQT+/8uL8eXlMNHBqxNpi7dLmyaFXc3ffD+CnQg==",
+  "dgSpecHash": "2Bq3F9LHpOgXtymwk+w2dXgRgKvpGg2CZ7kaxFO37ZoslP4swYska1VVmNok10QwW0E71fNf/AGFjdJRgDzMtA==",
   "success": true,
-  "projectFilePath": "f:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj",
+  "projectFilePath": "F:\\Csharp\\dotNetGFT\\FileSystemWatcher\\FileSystemWatcher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
