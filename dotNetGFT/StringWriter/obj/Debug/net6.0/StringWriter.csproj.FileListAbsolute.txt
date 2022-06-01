@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\StringWriter\bin\Debug\net6.0\StringWriter.exe
+F:\Csharp\dotNetGFT\StringWriter\bin\Debug\net6.0\StringWriter.deps.json
+F:\Csharp\dotNetGFT\StringWriter\bin\Debug\net6.0\StringWriter.runtimeconfig.json
+F:\Csharp\dotNetGFT\StringWriter\bin\Debug\net6.0\StringWriter.dll
+F:\Csharp\dotNetGFT\StringWriter\bin\Debug\net6.0\StringWriter.pdb
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.dll
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\refint\StringWriter.dll
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.pdb
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\StringWriter.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\StringWriter\obj\Debug\net6.0\ref\StringWriter.dll
