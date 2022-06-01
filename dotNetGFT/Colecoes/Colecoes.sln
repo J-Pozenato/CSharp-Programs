@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecoes", "Colecoes.csproj", "{6B828465-86A0-4234-85B1-B5E5346A46C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafionotas", "..\desafionotas\desafionotas.csproj", "{B5B120F1-124B-4650-AF7F-E5EF9D44FAA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6B828465-86A0-4234-85B1-B5E5346A46C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B828465-86A0-4234-85B1-B5E5346A46C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B828465-86A0-4234-85B1-B5E5346A46C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B120F1-124B-4650-AF7F-E5EF9D44FAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B120F1-124B-4650-AF7F-E5EF9D44FAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B120F1-124B-4650-AF7F-E5EF9D44FAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B120F1-124B-4650-AF7F-E5EF9D44FAA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

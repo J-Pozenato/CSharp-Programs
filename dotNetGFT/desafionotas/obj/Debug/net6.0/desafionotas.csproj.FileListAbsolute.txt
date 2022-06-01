@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\desafionotas\bin\Debug\net6.0\desafionotas.exe
+F:\Csharp\dotNetGFT\desafionotas\bin\Debug\net6.0\desafionotas.deps.json
+F:\Csharp\dotNetGFT\desafionotas\bin\Debug\net6.0\desafionotas.runtimeconfig.json
+F:\Csharp\dotNetGFT\desafionotas\bin\Debug\net6.0\desafionotas.dll
+F:\Csharp\dotNetGFT\desafionotas\bin\Debug\net6.0\desafionotas.pdb
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.dll
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\refint\desafionotas.dll
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.pdb
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\desafionotas.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\desafionotas\obj\Debug\net6.0\ref\desafionotas.dll
