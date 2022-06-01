@@ -1,0 +1,17 @@
+F:\Csharp\dotNetGFT\ProjCsvHelper\bin\Debug\net6.0\ProjCsvHelper.exe
+F:\Csharp\dotNetGFT\ProjCsvHelper\bin\Debug\net6.0\ProjCsvHelper.deps.json
+F:\Csharp\dotNetGFT\ProjCsvHelper\bin\Debug\net6.0\ProjCsvHelper.runtimeconfig.json
+F:\Csharp\dotNetGFT\ProjCsvHelper\bin\Debug\net6.0\ProjCsvHelper.dll
+F:\Csharp\dotNetGFT\ProjCsvHelper\bin\Debug\net6.0\ProjCsvHelper.pdb
+F:\Csharp\dotNetGFT\ProjCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.csproj.CopyComplete
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.dll
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\refint\ProjCsvHelper.dll
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.pdb
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ProjCsvHelper.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\ProjCsvHelper\obj\Debug\net6.0\ref\ProjCsvHelper.dll
