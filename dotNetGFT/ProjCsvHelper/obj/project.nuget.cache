@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9J2ASlBOjFdYj+BoWBanh2A3TlJdIuvm/+JZE0j8SwXJqFC8ruSYWpMM6o7YqsTXfWCiNLpsww9J2MUekpd8Zg==",
+  "success": true,
+  "projectFilePath": "F:\\Csharp\\dotNetGFT\\ProjCsvHelper\\ProjCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pozenato\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
