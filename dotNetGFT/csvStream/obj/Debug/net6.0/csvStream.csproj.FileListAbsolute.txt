@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\csvStream\bin\Debug\net6.0\csvStream.exe
+F:\Csharp\dotNetGFT\csvStream\bin\Debug\net6.0\csvStream.deps.json
+F:\Csharp\dotNetGFT\csvStream\bin\Debug\net6.0\csvStream.runtimeconfig.json
+F:\Csharp\dotNetGFT\csvStream\bin\Debug\net6.0\csvStream.dll
+F:\Csharp\dotNetGFT\csvStream\bin\Debug\net6.0\csvStream.pdb
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.dll
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\refint\csvStream.dll
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.pdb
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\csvStream.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\csvStream\obj\Debug\net6.0\ref\csvStream.dll
