@@ -1,0 +1,15 @@
+F:\Csharp\dotNetGFT\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.exe
+F:\Csharp\dotNetGFT\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.deps.json
+F:\Csharp\dotNetGFT\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.runtimeconfig.json
+F:\Csharp\dotNetGFT\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.dll
+F:\Csharp\dotNetGFT\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.pdb
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.csproj.AssemblyReference.cache
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.AssemblyInfoInputs.cache
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.AssemblyInfo.cs
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.csproj.CoreCompileInputs.cache
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.dll
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\refint\WorkingWithFiles.dll
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.pdb
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.genruntimeconfig.cache
+F:\Csharp\dotNetGFT\WorkingWithFiles\obj\Debug\net6.0\ref\WorkingWithFiles.dll

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/dotNetGFT/WorkingWithFiles/WorkingWithFiles.csproj",
+                "${workspaceFolder}/WorkingWithFiles/WorkingWithFiles.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/dotNetGFT/WorkingWithFiles/WorkingWithFiles.csproj",
+                "${workspaceFolder}/WorkingWithFiles/WorkingWithFiles.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/dotNetGFT/WorkingWithFiles/WorkingWithFiles.csproj"
+                "${workspaceFolder}/WorkingWithFiles/WorkingWithFiles.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
